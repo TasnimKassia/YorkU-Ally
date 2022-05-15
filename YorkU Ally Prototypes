@@ -1,0 +1,19 @@
+The Prototypes were created using Proto.io
+
+The 4 main parts of the app are: User Profile, Learning Section, Resources Page and Requesting Ally.
+
+- User Profile: Contains the user details like User Name, Pronouns and Status (student, faculty or staff), 
+Hours dedicated to helping as an Ally, Rating as an Ally and Bio where the user can introduce themselves. 
+Lastly, Badges are earned after completing courses to show their qualifications as an ally. 
+
+- Learning: Users can find courses on how to become an active ally to the community. Upon completion of a course, 
+users will be awarded with badges to prove their qualifications. More courses and workshops will be suggested in the Top Picks based on the user activity. 
+so this will show courses of topics the user has shown interest in. 
+
+- Resources: Will contain links to various resources available in campus all in one place. Allows the Users to easily find specific resources that they need, 
+rather then having to search through websites to find their required information
+
+- Requesting Ally: Users will be able to request for an Ally while choosing the Level of urgency: 
+for example they can schedule a meeting with an Ally or ask for immediate assistance, Description of the situation and Preference for an Ally, 
+because users may want to talk to an ally who they are comfortable with. 
+Users will be able to rate their Ally and write reviews after their meetings or interactions which will then be visible on the User Profile.
